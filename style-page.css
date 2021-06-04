@@ -1,9 +1,10 @@
-html {
-    background-image: url("img/IMG_6708.jpg");
-   padding: 20em;
-   border: 1px black;
-   background-size: 1000px 750px;
+.myname {
+    font-size: 60px;
+    text-decoration: overline;
+    text-shadow: 3px 3px;
+    font-family: monospace;
+    text-align: center;
 }
-p {
-    font-size: large;
+img {
+     float: inline-end;
 }
